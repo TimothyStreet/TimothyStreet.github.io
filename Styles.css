@@ -1,0 +1,13 @@
+
+body {
+background-color: cornflowerblue; 
+color: white;
+text-align:center;
+font-family: Lato ,cursive} 
+h1 {text-align: center;
+font: 36px;
+}
+h2 {color:slate gray }
+p {color:white}
+ul { color:slate gray}
+ol{ color:orange}
